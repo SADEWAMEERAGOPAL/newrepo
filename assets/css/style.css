@@ -1,0 +1,24 @@
+
+.mainNavbar.navbar-default {
+    background-color: #000;
+    border-color: #000;
+}
+
+
+
+.mainNavbar .navbar-nav>li>a {
+    color: #fff;
+	text-transform: uppercase;	
+}
+
+.mainNavbar .navbar-brand{
+	padding: 10px 15px;
+}
+
+.item2 img{
+	margin:10px 10px; 
+	height: 250px;
+	width: 80%;
+	
+}
+
